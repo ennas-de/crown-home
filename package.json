@@ -1,0 +1,16 @@
+{
+  "name": "crown-home",
+  "version": "1.0.0",
+  "description": "A sample landing page feature",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ennas De",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^6.1.1"
+  }
+}
